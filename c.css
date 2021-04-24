@@ -1,0 +1,31 @@
+*{
+   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(64, 146, 212);
+}
+
+.grad1 {
+    height: auto;
+    background-color: rgb(10, 153, 219); /* For browsers that do not support gradients */
+    background-image: linear-gradient(to right, rgb(225, 232, 238) , rgb(16, 97, 218));
+  }
+
+.text:hover {
+background-color: rgb(236, 227, 227) ;
+}
+
+.class1:hover{
+color: rgb(107, 159, 228);
+}
+
+.class2:hover{
+    color: rgb(5, 4, 78);
+    }
+
+.class1{
+    color: darkblue;
+}
+
+.class2{
+    color: rgb(89, 171, 199);
+}
